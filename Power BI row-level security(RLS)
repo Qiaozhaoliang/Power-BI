@@ -11,6 +11,6 @@
 
   Group A has members: A1(user), A2(user),A3(group),A4(user), A1,A2,A4 are users, but A3 is a group. A3 has members B1,B2.
 
-  If when we share the dashboard or report, when add the Group A, and add Group A into the row-level security group,
+  If we share the dashboard or report, when we add the Group A, and add Group A into the row-level security group,
 
   A1,A2,A4 could visit the data, but B1,B2 could not visit the data. 
